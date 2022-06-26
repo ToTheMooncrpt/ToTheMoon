@@ -1,0 +1,20 @@
+{
+  "name": "totemoon_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "telegraf": "^4.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
